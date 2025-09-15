@@ -14,7 +14,7 @@ A passionate full-stack developer from India
 I'm a Computer Engineering graduate passionate about Artificial Intelligence, Large Language Models, and building impactful software. I enjoy solving problems, collaborating on innovative projects, and continuously learning about new technologies.
 
 - 🌱 Learning: AI, Machine Learning, LLMs , Mastering AI Agents and System Design
-- 🤝 Open to: Collaborations, internships, and full-time opportunities in AI & Software Engineering
+- 🤝 Open to: Collaborations and full-time opportunities in AI, Full Stack Development & Software Engineering
 - 🎯 Interests: GenAI, Natural Language Processing, Backend Development, Full Stack, Competitive Programming
 
 ---
